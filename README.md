@@ -14,7 +14,9 @@
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/32850244-9917-4a79-b517-6b7375572342)
 
+![Image](https://github.com/user-attachments/assets/9864c4c3-c548-4618-a2f8-5d0abfa4b7ab)
 
 Welcome to **Md’s Portfolio** – a web-based showcase of personal projects, tech skills, and a touch of creativity! This project was created with the goal of building a fully responsive, elegant, and functional portfolio that introduces **Muhammad Khalith**, a passionate front-end developer in the making, currently pursuing Electronics and Communication Engineering.
 
