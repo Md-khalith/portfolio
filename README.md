@@ -50,7 +50,6 @@ The site is fully responsive, visually appealing, and keeps usability at its hea
 - **Visual Studio Code**: Main editor for writing HTML, CSS, and JS.
 - **Bootstrap CDN**: For integrating responsive grid and components.
 - **GitHub Pages**: For hosting the final deployed version of the portfolio and projects.
-- **Git**: For version control and managing project history.
 
 ---
 
